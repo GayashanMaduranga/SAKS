@@ -5,7 +5,7 @@ Please create an anaconda environment using the environment.yml file and run the
 
 Execute the following commands before running the server
 
-python manage.py migrate
-python manage.py makemigrations registration_app
-python manage.py migrate
-python manage.py runserver
+python manage.py migrate  
+python manage.py makemigrations registration_app  
+python manage.py migrate  
+python manage.py runserver  
