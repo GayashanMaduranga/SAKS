@@ -1,7 +1,7 @@
 # SAKS
 Please create an anaconda environment using the environment.yml file and run the jupyter notebook for the answers. Django web application is in web_application folder.
 
-## Instructions for web application
+## Instructions for the web application
 
 Execute the following commands before running the server
 
